@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Adrian, and I am finishing my master's degree in economics with a focus on econometrics and data analysis. Currently, I am working as a working student for the BioNTech SE in Mainz, Germany in Business Analytics, where I help my team building comprehensive dashboards and assist with supplier negotiation.
+My name is Adrian, and I am finishing my master's degree in economics with a focus on econometrics and data analysis. Currently, I am working as a student assistant for the BioNTech SE in Mainz, Germany in Business Analytics, where I help my team building comprehensive dashboards and assist with supplier negotiation.
 
 - 🔭 I’m currently working on building a dynamic webscraper for financial news.
 - 🌱 I’m currently learning how to automate the search for the perfect hyperparameters for choosing the best ARIMA model.
